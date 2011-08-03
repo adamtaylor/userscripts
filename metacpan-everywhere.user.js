@@ -3,7 +3,7 @@
 // @description Add to every link to CPAN a link to MetaCPAN on a Google results page.
 // @namespace   http://ajct.info
 // @match       http://www.google.*/* 
-// @version     0.1
+// @version     0.2
 // ==/UserScript==
 
 (function() {
